@@ -6,7 +6,7 @@ final class MovieQuizViewController: UIViewController {
         super.viewDidLoad()
     }
 }
-
+//1
 /*
  Mock-данные
  
